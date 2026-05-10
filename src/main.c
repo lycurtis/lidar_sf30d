@@ -136,12 +136,17 @@ static bool lidar_handshake(sf_parse_ctx_t* ctx, char product_out[17])
     return false;
 }
 
-/* Read CMD 79 (serial port output rate) and translate the uint8 code to
- * samples/sec via SF_UPDATE_RATE_HZ. Returns 0 on failure. */
-static uint16_t lidar_read_serial_output_rate_hz(sf_parse_ctx_t* ctx)
+/* Read CMD 76 (Update rate, the SF30/D's internal sampling/measurement
+ * rate) and translate the uint8 code to samples/sec via SF_UPDATE_RATE_HZ.
+ * Returns 0 on failure.
+ *
+ * Per §10.1.6, CMD 40 ("Full speed distance in cm") streams "at the
+ * measurement update rate" — i.e. CMD 76, NOT CMD 79. CMD 79 only
+ * throttles the legacy ASCII serial mode (CMD 70 = 2). */
+static uint16_t lidar_read_measurement_rate_hz(sf_parse_ctx_t* ctx)
 {
     sf_packet_t resp;
-    if (!lidar_request_retry(ctx, SF_CMD_SERIAL_OUTPUT_RATE, false, NULL, 0u,
+    if (!lidar_request_retry(ctx, SF_CMD_UPDATE_RATE, false, NULL, 0u,
                              &resp, 250u, 3)) {
         return 0u;
     }
@@ -227,14 +232,14 @@ int main(void)
     }
     sf_parser_init(&ctx);
 
-    /* Read the configured serial output rate so we can display it. This is
-     * the value persisted in flash — it reflects whatever the configurator
-     * (or a previous program) set. */
-    uint16_t configured_hz = lidar_read_serial_output_rate_hz(&ctx);
+    /* Read the configured measurement update rate so we can display it.
+     * CMD 76 is the rate that actually governs CMD 40 streaming (per
+     * §10.1.6); it's the value persisted in flash by the configurator. */
+    uint16_t configured_hz = lidar_read_measurement_rate_hz(&ctx);
     if (configured_hz == 0u) {
-        printf("WARN : could not read CMD 79 (serial output rate)\r\n");
+        printf("WARN : could not read CMD 76 (update rate)\r\n");
     } else {
-        printf("CMD 79 serial output rate (configured) : %u Hz\r\n",
+        printf("CMD 76 measurement update rate (configured) : %u Hz\r\n",
                (unsigned)configured_hz);
     }
 

@@ -7,9 +7,11 @@ protocol
 The firmware:
 
 1. Performs the §10 handshake with the sensor (`Product Name`, CMD 0).
-2. Reads the configured **serial output rate** from CMD 79 (the value
-   persisted in the SF30/D's flash by the LightWare Studio configurator,
-   or by the included Python recorder under `misc/`).
+2. Reads the configured **measurement update rate** from CMD 76 (the
+   value persisted in the SF30/D's flash by the LightWare Studio
+   configurator, or by the included Python recorder under `misc/`). This
+   is the rate that actually governs CMD 40 streaming — see "Which rate
+   matters?" below for why it's CMD 76 and not CMD 79.
 3. Starts a CMD 40 full-speed distance stream.
 4. Once per second prints the **configured rate**, the **measured rate**
    (computed from the actual incoming readings), and the **most recent
@@ -21,7 +23,7 @@ The firmware:
 Debug : USART1 PB6/PB7 @ 115200 baud
 Sensor: USART2 PA2/PA3 @ 921600 baud
 Handshake OK: "SF30"
-CMD 79 serial output rate (configured) : 20010 Hz
+CMD 76 measurement update rate (configured) : 20010 Hz
 Streaming CMD 40 (full-speed distance). Reporting every 1 s.
 --------------------------------------------------
 [   1.000s] cfg=20010 Hz  meas=19998 Hz  d=  342 cm  pkts=2502
@@ -105,18 +107,38 @@ workflow:
 4. Aim the sensor at a known target; verify the **`d=` cm** field matches
    reality.
 
+### Which rate matters?
+
+The SF30/D has **two independent rate settings** and they look almost
+identical in the spec. It's important to set the right one:
+
+| Cmd | Name                       | What it controls                                    | Affects CMD 40 stream? |
+|----:|----------------------------|-----------------------------------------------------|:----------------------:|
+| 76  | **Update rate**            | Internal laser-firing / measurement rate            | **Yes**                |
+| 79  | Serial port output rate    | Throttle for the legacy ASCII serial mode (CMD 70 = 2) | No                  |
+
+Per §10.1.6, CMD 40 ("Full speed distance in cm") streams "at the
+**measurement update rate**" — i.e. CMD 76. CMD 79 only matters if you've
+configured the sensor for the legacy `Distance over serial` output type
+(CMD 70 = 2), which this firmware does not use.
+
+So: to change how many readings/sec this firmware sees, edit **CMD 76** in
+Studio (Update rate), not CMD 79.
+
 ### Cross-checking a rate change
 
-The `cfg` value comes from CMD 79 read at boot, which reflects the
-sensor's persisted setting. To confirm a configurator change took effect:
+The `cfg` value comes from CMD 76 read at boot, which reflects the
+sensor's persisted measurement update rate. To confirm a configurator
+change took effect:
 
-1. Set the rate in LightWare Studio (CMD 79) and **save to flash**.
+1. Set **Update rate** in LightWare Studio (CMD 76) and **save to flash**.
 2. Power-cycle the SF30/D (and the board, to re-handshake).
 3. Watch the firmware boot banner — `cfg=` should report the new rate.
 4. Watch the per-second lines — `meas=` should converge to that rate
    within the first couple of seconds.
 
-The SF30/D supports these serial-port output rates (§10.1.6, CMD 79):
+CMD 76 / CMD 79 / CMD 78 (USB) all share the same rate-code table
+(§10.1.6):
 
 | Code | Samples/sec |
 |-----:|------------:|
