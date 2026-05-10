@@ -1,0 +1,13 @@
+# ninja log v5
+95	870	1778441349516408383	stm32g431_nucleo	aee2f4656f8e64dd
+0	155	1778441319338242811	CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj	aa8338e730dda7fe
+1	187	1778441319369242942	CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj	1de707d90d124ed0
+2	155	1778441319338242811	CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj	3b9ec33ff7f3d64e
+2	151	1778441319334242794	CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj	27723b029f770e1
+2	145	1778441319328242769	CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj	1834b658a82ac784
+1	142	1778441319321242740	CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj	718abc71c36aae16
+0	95	1778441348763403376	CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj	505fd5d45d1c5ffb
+2	88	1778441319269242520	CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj	21d4fa87c86ef206
+0	81	1778448155048106526	CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj	aa8338e730dda7fe
+0	106	1778448155074106135	CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj	505fd5d45d1c5ffb
+106	866	1778448155820094908	stm32g431_nucleo	aee2f4656f8e64dd

@@ -1,0 +1,38 @@
+.
+├── ./cmake
+│   ├── ./cmake/arm-none-eabi-gcc.cmake
+│   └── ./cmake/stm32f4.cmake
+├── ./CMakeLists.txt
+├── ./CMakePresets.json
+├── ./CMSIS
+│   ├── ./CMSIS/cmsis_compiler.h
+│   ├── ./CMSIS/cmsis_gcc.h
+│   ├── ./CMSIS/cmsis_version.h
+│   └── ./CMSIS/core_cm4.h
+├── ./device
+│   ├── ./device/startup_stm32g431xx.s
+│   ├── ./device/STM32G431KBTX_FLASH.ld
+│   ├── ./device/system_stm32g4xx.c
+│   └── ./device/system_stm32g4xx.h
+├── ./drivers
+│   ├── ./drivers/gpio.c
+│   ├── ./drivers/gpio.h
+│   ├── ./drivers/i2c.c
+│   ├── ./drivers/i2c.h
+│   ├── ./drivers/timer.c
+│   ├── ./drivers/timer.h
+│   ├── ./drivers/usart.c
+│   └── ./drivers/usart.h
+├── ./include
+│   ├── ./include/stm32g431xx.h
+│   └── ./include/stm32g4xx.h
+├── ./project_tree.txt
+├── ./README.md
+└── ./src
+    ├── ./src/init.c
+    ├── ./src/init.h
+    ├── ./src/interrupts.c
+    ├── ./src/main.c
+    └── ./src/syscall.c
+
+6 directories, 29 files

@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -fdata-sections -ffunction-sections -Og -g3 -DDEBUG -o CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/src/main.c",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/src/main.c"
+},
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -fdata-sections -ffunction-sections -Og -g3 -DDEBUG -o CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/src/init.c",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/src/init.c"
+},
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -fdata-sections -ffunction-sections -Og -g3 -DDEBUG -o CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/src/interrupts.c",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/src/interrupts.c"
+},
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -fdata-sections -ffunction-sections -Og -g3 -DDEBUG -o CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/src/syscall.c",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/src/syscall.c"
+},
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -fdata-sections -ffunction-sections -Og -g3 -DDEBUG -o CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/drivers/usart.c",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/drivers/usart.c"
+},
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -fdata-sections -ffunction-sections -Og -g3 -DDEBUG -o CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/drivers/lidar.c",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/drivers/lidar.c"
+},
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -fdata-sections -ffunction-sections -Og -g3 -DDEBUG -o CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/device/system_stm32g4xx.c",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/device/system_stm32g4xx.c"
+},
+{
+  "directory": "/home/curtis-ly/nokturnal/lidar_sf30d/build/debug",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32G431xx -I/home/curtis-ly/nokturnal/lidar_sf30d/include -I/home/curtis-ly/nokturnal/lidar_sf30d/src -I/home/curtis-ly/nokturnal/lidar_sf30d/drivers -I/home/curtis-ly/nokturnal/lidar_sf30d/device -I/home/curtis-ly/nokturnal/lidar_sf30d/CMSIS -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -x assembler-with-cpp -g -o CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj -c /home/curtis-ly/nokturnal/lidar_sf30d/device/startup_stm32g431xx.s",
+  "file": "/home/curtis-ly/nokturnal/lidar_sf30d/device/startup_stm32g431xx.s"
+}
+]

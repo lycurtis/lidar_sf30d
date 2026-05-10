@@ -1,0 +1,1627 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+                              CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj (memcpy)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+                              CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj (memmove)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+                              CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj (printf)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                              CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj (puts)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+                              CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj (setvbuf)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o) (__swbuf_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o) (__swsetup_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o) (_fflush_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o) (__sinit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (_fwalk)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o) (malloc)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o) (_free_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (_malloc_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (__sread)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_write_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_close_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_lseek_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_read_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o) (errno)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_line    0x0000000000000000       0x87 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_str     0x0000000000000000       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000      0xa72 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000       0x2e CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000       0x28 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000      0x34e CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000      0x107 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000     0x1057 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000      0x11f CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000    0x1138f CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000       0x6d CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000      0xa72 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000       0x2e CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000       0x28 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000      0x34e CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000      0x107 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000     0x1057 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000      0x11f CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000    0x1138f CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000000000       0x6d CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000      0xa72 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x52 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x18 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x94 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x35 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x34 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x57 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000      0x333 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x16 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x43 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x34 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x10 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x52 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000      0x182 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x35 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x10 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x6a CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x52 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x10 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x40 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0xd5 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x3d CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x2e CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x28 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000      0x34e CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000      0x107 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000     0x1057 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000      0x11f CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000    0x1138f CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x6d CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000      0xa72 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000       0x2e CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000       0x28 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000      0x34e CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000      0x107 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000     0x1057 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000      0x11f CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000    0x1138f CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000       0x6d CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .text.sf_build_save_parameters_request
+                0x0000000000000000       0x24 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .text.sf_decode_token
+                0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000      0xa72 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000      0x34e CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000      0x136 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x52 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x18 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x94 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x35 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x34 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000      0x174 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x16 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x43 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x57 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x34 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x10 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x52 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000      0x182 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000      0x333 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000000000       0x35 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x90 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .rodata.AHBPrescTable
+                0x0000000000000000       0x10 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000      0xa72 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000       0x2e CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000       0x28 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000      0x34e CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000      0x107 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000     0x1057 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000      0x11f CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000    0x1138f CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_macro   0x0000000000000000       0x6d CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000      0x100 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000       0xb7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000       0xc0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x1e9 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x81a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1ba /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x16d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x528 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000      0x102 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xcf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000       0xed /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x1e1 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000       0xac /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000       0x8c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x269 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x1bd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x1f5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x1ec /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x297 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0x249 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x179 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x19b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x1eb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x25b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x4c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000      0x114 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000008000 xrw
+FLASH            0x0000000008000000 0x0000000000020000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+LOAD CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+LOAD CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+LOAD CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+LOAD CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+LOAD CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+LOAD CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+LOAD CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020008000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x1d8
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1d8 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001d8                . = ALIGN (0x4)
+
+.text           0x00000000080001e0     0x27c4
+                0x00000000080001e0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001e0       0x88 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000008000268       0x48 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                0x0000000008000268                __libc_init_array
+ .text          0x00000000080002b0      0x134 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+                0x00000000080002b0                memcpy
+ .text          0x00000000080003e4       0xf8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+                0x00000000080003e4                memmove
+ .text          0x00000000080004dc       0xa4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                0x00000000080004dc                memset
+ .text          0x0000000008000580       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+                0x0000000008000580                _printf_r
+                0x0000000008000580                _iprintf_r
+                0x00000000080005ac                printf
+                0x00000000080005ac                iprintf
+ .text          0x00000000080005e0       0xec /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                0x00000000080005e0                _puts_r
+                0x00000000080006bc                puts
+ .text          0x00000000080006cc      0x180 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+                0x00000000080006cc                setvbuf
+ .text          0x000000000800084c       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+                0x000000000800084c                __swbuf_r
+                0x00000000080008fc                __swbuf
+ .text          0x0000000008000914      0x104 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+                0x0000000008000914                __swsetup_r
+ .text          0x0000000008000a18      0x1e8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                0x0000000008000a18                __sflush_r
+                0x0000000008000b2c                _fflush_r
+                0x0000000008000b80                fflush
+ .text          0x0000000008000c00      0x238 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000008000c04                _cleanup_r
+                0x0000000008000c14                __sfmoreglue
+                0x0000000008000c44                __sfp
+                0x0000000008000de4                _cleanup
+                0x0000000008000df8                __sinit
+                0x0000000008000e00                __sfp_lock_acquire
+                0x0000000008000e04                __sfp_lock_release
+                0x0000000008000e08                __sinit_lock_acquire
+                0x0000000008000e0c                __sinit_lock_release
+                0x0000000008000e10                __fp_lock_all
+                0x0000000008000e24                __fp_unlock_all
+ .text          0x0000000008000e38       0x88 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+                0x0000000008000e38                _fwalk
+                0x0000000008000e78                _fwalk_reent
+ .text          0x0000000008000ec0      0x11c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                0x0000000008000ec0                __smakebuf_r
+                0x0000000008000f80                __swhatbuf_r
+ .text          0x0000000008000fdc       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+                0x0000000008000fdc                malloc
+                0x0000000008000fec                free
+ .text          0x0000000008000ffc       0xc4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                0x0000000008000ffc                _free_r
+ .text          0x00000000080010c0       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000000080010c0                _malloc_r
+ .text          0x0000000008001174      0x328 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000080011b0                __sfputs_r
+                0x00000000080011e0                __sprint_r
+                0x00000000080011fc                _vfiprintf_r
+                0x00000000080011fc                _vfprintf_r
+                0x0000000008001480                vfiprintf
+                0x0000000008001480                vfprintf
+ .text          0x000000000800149c      0x3dc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000000000800149c                _printf_common
+                0x00000000080015c8                _printf_i
+ .text          0x0000000008001878       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                0x0000000008001878                _sbrk_r
+ .text          0x000000000800189c       0x90 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x000000000800189c                __sread
+                0x00000000080018c0                __seofread
+                0x00000000080018c4                __swrite
+                0x0000000008001904                __sseek
+                0x0000000008001924                __sclose
+ .text          0x000000000800192c       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+                0x000000000800192c                _write_r
+ .text          0x0000000008001958       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+                0x0000000008001958                _close_r
+ .text          0x000000000800197c       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+                0x000000000800197c                _fstat_r
+ .text          0x00000000080019a8      0x2f0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+                0x00000000080019a8                __sfvwrite_r
+ .text          0x0000000008001c98       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+                0x0000000008001c98                _isatty_r
+ .text          0x0000000008001cbc       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+                0x0000000008001cbc                _lseek_r
+ *fill*         0x0000000008001ce8        0x8 
+ .text          0x0000000008001cf0       0xa0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+                0x0000000008001cf0                memchr
+ .text          0x0000000008001d90        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                0x0000000008001d90                __malloc_lock
+                0x0000000008001d94                __malloc_unlock
+ .text          0x0000000008001d98       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+                0x0000000008001d98                _realloc_r
+ .text          0x0000000008001de8       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+                0x0000000008001de8                _read_r
+ .text          0x0000000008001e14       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+                0x0000000008001e14                _malloc_usable_size_r
+ *(.text*)
+ .text.pack_u32_le
+                0x0000000008001e28       0x14 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.ms_now   0x0000000008001e3c        0x8 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.lidar_request
+                0x0000000008001e44       0x8c CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.lidar_request_retry
+                0x0000000008001ed0       0x50 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.lidar_read_serial_output_rate_hz
+                0x0000000008001f20       0x48 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.ms_since
+                0x0000000008001f68        0xc CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.ms_sleep
+                0x0000000008001f74       0x1a CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.lidar_handshake
+                0x0000000008001f8e       0x7e CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .text.main     0x000000000800200c      0x2b8 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+                0x000000000800200c                main
+ .text.clock_init
+                0x00000000080022c4      0x100 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .text.gpio_init
+                0x00000000080023c4       0x98 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .text.systick_init
+                0x000000000800245c       0x38 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .text.BSP_Init
+                0x0000000008002494       0x10 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+                0x0000000008002494                BSP_Init
+ .text.BSP_GetTick
+                0x00000000080024a4        0xc CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+                0x00000000080024a4                BSP_GetTick
+ .text.BSP_TickIncrement
+                0x00000000080024b0       0x10 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+                0x00000000080024b0                BSP_TickIncrement
+ .text.NMI_Handler
+                0x00000000080024c0        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024c0                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080024c2        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024c2                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080024c4        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024c4                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080024c6        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024c6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080024c8        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024c8                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080024ca        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024ca                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080024cc        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024cc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000000080024ce        0x2 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024ce                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080024d0        0x8 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                0x00000000080024d0                SysTick_Handler
+ .text._write   0x00000000080024d8       0x1a CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                0x00000000080024d8                _write
+ .text._read    0x00000000080024f2        0x4 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                0x00000000080024f2                _read
+ .text._close   0x00000000080024f6        0x6 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                0x00000000080024f6                _close
+ .text._lseek   0x00000000080024fc        0x4 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                0x00000000080024fc                _lseek
+ .text._fstat   0x0000000008002500        0xa CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                0x0000000008002500                _fstat
+ .text._isatty  0x000000000800250a        0x4 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                0x000000000800250a                _isatty
+ *fill*         0x000000000800250e        0x2 
+ .text._sbrk    0x0000000008002510       0x24 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                0x0000000008002510                _sbrk
+ .text.usart1_hw_init
+                0x0000000008002534       0x7c CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .text.usart2_hw_init
+                0x00000000080025b0       0x80 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .text.usart_init
+                0x0000000008002630       0x22 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+                0x0000000008002630                usart_init
+ *fill*         0x0000000008002652        0x2 
+ .text.usart1_putc
+                0x0000000008002654       0x14 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+                0x0000000008002654                usart1_putc
+ .text.usart2_putc
+                0x0000000008002668       0x14 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+                0x0000000008002668                usart2_putc
+ .text.usart_write
+                0x000000000800267c       0x28 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+                0x000000000800267c                usart_write
+ .text.usart_rx_ready
+                0x00000000080026a4       0x20 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+                0x00000000080026a4                usart_rx_ready
+ .text.usart_read_byte
+                0x00000000080026c4       0x1c CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+                0x00000000080026c4                usart_read_byte
+ .text.sf_crc16_continue
+                0x00000000080026e0       0x32 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .text.sf_build_packet
+                0x0000000008002712       0x6e CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .text.sf_resync_after_error
+                0x0000000008002780       0x34 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .text.sf_try_parse_one
+                0x00000000080027b4       0xbe CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .text.sf_parser_init
+                0x0000000008002872        0xe CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+                0x0000000008002872                sf_parser_init
+ .text.sf_parser_feed
+                0x0000000008002880       0x72 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+                0x0000000008002880                sf_parser_feed
+ .text.sf_build_read_request
+                0x00000000080028f2       0x18 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+                0x00000000080028f2                sf_build_read_request
+ .text.sf_build_write_request
+                0x000000000800290a       0x1a CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+                0x000000000800290a                sf_build_write_request
+ .text.SystemInit
+                0x0000000008002924       0x14 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+                0x0000000008002924                SystemInit
+ .text.Reset_Handler
+                0x0000000008002938       0x50 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+                0x0000000008002938                Reset_Handler
+ .text.Default_Handler
+                0x0000000008002988        0x2 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+                0x0000000008002988                RTC_Alarm_IRQHandler
+                0x0000000008002988                EXTI2_IRQHandler
+                0x0000000008002988                TIM8_TRG_COM_IRQHandler
+                0x0000000008002988                TIM8_CC_IRQHandler
+                0x0000000008002988                TIM1_CC_IRQHandler
+                0x0000000008002988                USB_HP_IRQHandler
+                0x0000000008002988                CORDIC_IRQHandler
+                0x0000000008002988                EXTI3_IRQHandler
+                0x0000000008002988                I2C3_ER_IRQHandler
+                0x0000000008002988                EXTI0_IRQHandler
+                0x0000000008002988                I2C2_EV_IRQHandler
+                0x0000000008002988                FPU_IRQHandler
+                0x0000000008002988                FDCAN1_IT1_IRQHandler
+                0x0000000008002988                TIM1_UP_TIM16_IRQHandler
+                0x0000000008002988                ADC1_2_IRQHandler
+                0x0000000008002988                SPI1_IRQHandler
+                0x0000000008002988                TIM6_DAC_IRQHandler
+                0x0000000008002988                TIM8_UP_IRQHandler
+                0x0000000008002988                DMA2_Channel2_IRQHandler
+                0x0000000008002988                DMA1_Channel4_IRQHandler
+                0x0000000008002988                USART3_IRQHandler
+                0x0000000008002988                TIM4_IRQHandler
+                0x0000000008002988                DMA2_Channel1_IRQHandler
+                0x0000000008002988                I2C1_EV_IRQHandler
+                0x0000000008002988                DMA1_Channel6_IRQHandler
+                0x0000000008002988                UART4_IRQHandler
+                0x0000000008002988                DMA2_Channel4_IRQHandler
+                0x0000000008002988                TIM3_IRQHandler
+                0x0000000008002988                RCC_IRQHandler
+                0x0000000008002988                DMA1_Channel1_IRQHandler
+                0x0000000008002988                Default_Handler
+                0x0000000008002988                RTC_TAMP_LSECSS_IRQHandler
+                0x0000000008002988                FMAC_IRQHandler
+                0x0000000008002988                EXTI15_10_IRQHandler
+                0x0000000008002988                TIM7_IRQHandler
+                0x0000000008002988                UCPD1_IRQHandler
+                0x0000000008002988                I2C3_EV_IRQHandler
+                0x0000000008002988                EXTI9_5_IRQHandler
+                0x0000000008002988                RTC_WKUP_IRQHandler
+                0x0000000008002988                PVD_PVM_IRQHandler
+                0x0000000008002988                SPI2_IRQHandler
+                0x0000000008002988                DMA2_Channel5_IRQHandler
+                0x0000000008002988                CRS_IRQHandler
+                0x0000000008002988                DMA1_Channel5_IRQHandler
+                0x0000000008002988                USB_LP_IRQHandler
+                0x0000000008002988                EXTI4_IRQHandler
+                0x0000000008002988                RNG_IRQHandler
+                0x0000000008002988                TIM1_TRG_COM_TIM17_IRQHandler
+                0x0000000008002988                DMA1_Channel3_IRQHandler
+                0x0000000008002988                WWDG_IRQHandler
+                0x0000000008002988                LPUART1_IRQHandler
+                0x0000000008002988                DMA2_Channel6_IRQHandler
+                0x0000000008002988                FDCAN1_IT0_IRQHandler
+                0x0000000008002988                TIM2_IRQHandler
+                0x0000000008002988                COMP1_2_3_IRQHandler
+                0x0000000008002988                EXTI1_IRQHandler
+                0x0000000008002988                USART2_IRQHandler
+                0x0000000008002988                I2C2_ER_IRQHandler
+                0x0000000008002988                DMA1_Channel2_IRQHandler
+                0x0000000008002988                TIM8_BRK_IRQHandler
+                0x0000000008002988                FLASH_IRQHandler
+                0x0000000008002988                USART1_IRQHandler
+                0x0000000008002988                SPI3_IRQHandler
+                0x0000000008002988                I2C1_ER_IRQHandler
+                0x0000000008002988                LPTIM1_IRQHandler
+                0x0000000008002988                DMAMUX_OVR_IRQHandler
+                0x0000000008002988                USBWakeUp_IRQHandler
+                0x0000000008002988                SAI1_IRQHandler
+                0x0000000008002988                DMA2_Channel3_IRQHandler
+                0x0000000008002988                COMP4_IRQHandler
+                0x0000000008002988                TIM1_BRK_TIM15_IRQHandler
+ *(.glue_7)
+ .glue_7        0x000000000800298a        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000800298a        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x000000000800298a        0x2 
+ .eh_frame      0x000000000800298c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x000000000800298c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x000000000800298c                _init
+ .init          0x0000000008002990        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008002998        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008002998                _fini
+ .fini          0x000000000800299c        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000000080029a4                . = ALIGN (0x4)
+                0x00000000080029a4                _etext = .
+
+.vfp11_veneer   0x00000000080029a4        0x0
+ .vfp11_veneer  0x00000000080029a4        0x0 linker stubs
+
+.v4_bx          0x00000000080029a4        0x0
+ .v4_bx         0x00000000080029a4        0x0 linker stubs
+
+.iplt           0x00000000080029a4        0x0
+ .iplt          0x00000000080029a4        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x00000000080029a4      0x30c
+                0x00000000080029a4                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x00000000080029a4       0x18 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .rodata        0x00000000080029bc        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x00000000080029bc                _global_impure_ptr
+ .rodata        0x00000000080029c0       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x00000000080029c0                __sf_fake_stderr
+                0x00000000080029e0                __sf_fake_stdout
+                0x0000000008002a00                __sf_fake_stdin
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x0000000008002a20      0x23d CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ *fill*         0x0000000008002c5d        0x3 
+ .rodata.SF_UPDATE_RATE_HZ
+                0x0000000008002c60       0x14 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+                0x0000000008002c60                SF_UPDATE_RATE_HZ
+ .rodata.str1.4
+                0x0000000008002c74       0x13 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x0000000008002c87        0x1 
+ .rodata.str1.4
+                0x0000000008002c88       0x25 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008002cb0                . = ALIGN (0x4)
+ *fill*         0x0000000008002cad        0x3 
+
+.ARM.extab      0x0000000008002cb0        0x0
+                0x0000000008002cb0                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008002cb0                . = ALIGN (0x4)
+
+.ARM            0x0000000008002cb0        0x0
+                0x0000000008002cb0                . = ALIGN (0x4)
+                0x0000000008002cb0                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008002cb0                __exidx_end = .
+                0x0000000008002cb0                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008002cb0        0x0
+                0x0000000008002cb0                . = ALIGN (0x4)
+                0x0000000008002cb0                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008002cb0                PROVIDE (__preinit_array_end = .)
+                0x0000000008002cb0                . = ALIGN (0x4)
+
+.init_array     0x0000000008002cb0        0x4
+                0x0000000008002cb0                . = ALIGN (0x4)
+                0x0000000008002cb0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008002cb0        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008002cb4                PROVIDE (__init_array_end = .)
+                0x0000000008002cb4                . = ALIGN (0x4)
+
+.fini_array     0x0000000008002cb4        0x4
+                0x0000000008002cb4                . = ALIGN (0x4)
+                0x0000000008002cb4                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008002cb4        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008002cb8                PROVIDE (__fini_array_end = .)
+                0x0000000008002cb8                . = ALIGN (0x4)
+                0x0000000008002cb8                _sidata = LOADADDR (.data)
+
+.rel.dyn        0x0000000008002cb8        0x0
+ .rel.iplt      0x0000000008002cb8        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.data           0x0000000020000000       0x68 load address 0x0000000008002cb8
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000       0x64 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x0000000020000000                _impure_ptr
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000064        0x4 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+                0x0000000020000064                SystemCoreClock
+                0x0000000020000068                . = ALIGN (0x4)
+                0x0000000020000068                _edata = .
+
+.tm_clone_table
+                0x0000000020000068        0x0 load address 0x0000000008002d20
+ .tm_clone_table
+                0x0000000020000068        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x0000000020000068        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x0000000020000068        0x0 load address 0x0000000008002d20
+ .igot.plt      0x0000000020000068        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000020000068                . = ALIGN (0x4)
+
+.bss            0x0000000020000068      0x838 load address 0x0000000008002d20
+                0x0000000020000068                _sbss = .
+                0x0000000020000068                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000068       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x0000000020000084        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000084                __malloc_free_list
+                0x0000000020000088                __malloc_sbrk_start
+ .bss           0x000000002000008c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                0x000000002000008c                errno
+ *(.bss*)
+ .bss.ctx.0     0x0000000020000090      0x808 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .bss.bsp_tick  0x0000000020000898        0x4 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .bss.heap.0    0x000000002000089c        0x4 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ *(COMMON)
+                0x00000000200008a0                . = ALIGN (0x4)
+                0x00000000200008a0                _ebss = .
+                0x00000000200008a0                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200008a0      0x600 load address 0x0000000008002d20
+                0x00000000200008a0                . = ALIGN (0x8)
+                0x00000000200008a0                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000aa0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200008a0      0x200 
+                0x0000000020000ea0                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000aa0      0x400 
+                0x0000000020000ea0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x34 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .ARM.attributes
+                0x0000000000000086       0x34 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .ARM.attributes
+                0x00000000000000ba       0x34 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .ARM.attributes
+                0x00000000000000ee       0x34 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .ARM.attributes
+                0x0000000000000122       0x34 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .ARM.attributes
+                0x0000000000000156       0x34 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .ARM.attributes
+                0x000000000000018a       0x34 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .ARM.attributes
+                0x00000000000001be       0x21 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .ARM.attributes
+                0x00000000000001df       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000211       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000245       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000261       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000295       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002c9       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x00000000000002fd       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .ARM.attributes
+                0x0000000000000331       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .ARM.attributes
+                0x0000000000000365       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x0000000000000399       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000000003cd       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000401       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000000000000435       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000000469       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000000000000049d       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000004d1       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000505       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000539       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000000000000056d       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000000000005a1       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000005d5       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000609       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x000000000000063d       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000671       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000000000006a5       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000000000006d9       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000000000000070d       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000741       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000000000000075d       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000791       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000000000007c5       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000000007f9       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000082d       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x0000000000000861       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000893       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(stm32g431_nucleo elf32-littlearm)
+LOAD linker stubs
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+
+.debug_info     0x0000000000000000    0x15ba4
+ .debug_info    0x0000000000000000     0x17f1 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_info    0x00000000000017f1      0xc87 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_info    0x0000000000002478      0x12c CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_info    0x00000000000025a4      0x4ae CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_info    0x0000000000002a52      0x6a2 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_info    0x00000000000030f4      0x835 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_info    0x0000000000003929      0x599 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_info    0x0000000000003ec2       0x22 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .debug_info    0x0000000000003ee4      0x863 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .debug_info    0x0000000000004747      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_info    0x0000000000004861       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000004887      0x152 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_info    0x00000000000049d9      0x137 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_info    0x0000000000004b10      0x8fd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .debug_info    0x000000000000540d      0xa41 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_info    0x0000000000005e4e      0xa17 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .debug_info    0x0000000000006865      0x998 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_info    0x00000000000071fd      0x902 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_info    0x0000000000007aff      0xb0d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_info    0x000000000000860c      0xfae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_info    0x00000000000095ba      0x900 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_info    0x0000000000009eba      0xc8a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_info    0x000000000000ab44      0x832 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_info    0x000000000000b376      0x903 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x000000000000bc79      0xa0c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x000000000000c685     0x115f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_info    0x000000000000d7e4      0xe9e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x000000000000e682      0x828 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000000eeaa      0xabc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_info    0x000000000000f966      0x85a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_info    0x00000000000101c0      0x805 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_info    0x00000000000109c5      0xa1d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_info    0x00000000000113e2      0xb5e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .debug_info    0x0000000000011f40      0x805 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_info    0x0000000000012745      0x83b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_info    0x0000000000012f80       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .debug_info    0x0000000000012fa6      0x7dc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_info    0x0000000000013782      0x911 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_info    0x0000000000014093      0x853 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_info    0x00000000000148e6      0xa7e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_info    0x0000000000015364      0x840 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+
+.debug_abbrev   0x0000000000000000     0x4960
+ .debug_abbrev  0x0000000000000000      0x380 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_abbrev  0x0000000000000380      0x21b CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_abbrev  0x000000000000059b       0x81 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_abbrev  0x000000000000061c      0x151 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_abbrev  0x000000000000076d      0x1a5 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_abbrev  0x0000000000000912      0x258 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_abbrev  0x0000000000000b6a      0x11c CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_abbrev  0x0000000000000c86       0x12 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .debug_abbrev  0x0000000000000c98      0x151 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000de9       0xcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000eb5       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000ec9       0xc0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000000f89       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x000000000000103d      0x23e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .debug_abbrev  0x000000000000127b      0x28e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_abbrev  0x0000000000001509      0x21c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .debug_abbrev  0x0000000000001725      0x21f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_abbrev  0x0000000000001944      0x1d4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_abbrev  0x0000000000001b18      0x2dd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000000000001df5      0x3cd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_abbrev  0x00000000000021c2      0x197 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000000000002359      0x278 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00000000000025d1      0x1b6 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000000000002787      0x235 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x00000000000029bc      0x290 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x0000000000002c4c      0x358 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_abbrev  0x0000000000002fa4      0x25c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_abbrev  0x0000000000003200      0x1d6 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00000000000033d6      0x1fb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_abbrev  0x00000000000035d1      0x1b0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000003781      0x1ab /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_abbrev  0x000000000000392c      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_abbrev  0x0000000000003aeb      0x1f7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x0000000000003ce2      0x1ab /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_abbrev  0x0000000000003e8d      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_abbrev  0x000000000000404c       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000004060      0x189 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_abbrev  0x00000000000041e9      0x1d6 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_abbrev  0x00000000000043bf      0x1ab /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_abbrev  0x000000000000456a      0x265 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_abbrev  0x00000000000047cf      0x191 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+
+.debug_loc      0x0000000000000000     0x5733
+ .debug_loc     0x0000000000000000      0x6cb CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_loc     0x00000000000006cb       0x63 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_loc     0x000000000000072e      0x199 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_loc     0x00000000000008c7      0x20d CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_loc     0x0000000000000ad4      0x939 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_loc     0x000000000000140d       0x9d CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_loc     0x00000000000014aa       0xba /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_loc     0x0000000000001564      0x34f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_loc     0x00000000000018b3      0x22c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_loc     0x0000000000001adf       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .debug_loc     0x0000000000001b77      0x28c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_loc     0x0000000000001e03      0x214 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .debug_loc     0x0000000000002017      0x193 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_loc     0x00000000000021aa       0xb7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_loc     0x0000000000002261      0x4ee /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_loc     0x000000000000274f      0x3d9 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000002b28      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_loc     0x0000000000002ce7      0x327 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_loc     0x000000000000300e       0x64 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_loc     0x0000000000003072      0x203 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_loc     0x0000000000003275      0x3cd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_loc     0x0000000000003642      0x7ae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_loc     0x0000000000003df0      0x5dd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_loc     0x00000000000043cd       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000004439      0x3a0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_loc     0x00000000000047d9       0xf7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_loc     0x00000000000048d0       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_loc     0x000000000000493c       0xab /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_loc     0x00000000000049e7      0x76c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .debug_loc     0x0000000000005153       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_loc     0x00000000000051bf       0xf7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_loc     0x00000000000052b6      0x133 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_loc     0x00000000000053e9       0xf7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_loc     0x00000000000054e0      0x1cd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_loc     0x00000000000056ad       0x86 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+
+.debug_aranges  0x0000000000000000      0x680
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_aranges
+                0x0000000000000060       0x48 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_aranges
+                0x00000000000000a8       0x60 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_aranges
+                0x0000000000000108       0x50 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_aranges
+                0x0000000000000158       0x58 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_aranges
+                0x00000000000001b0       0x68 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_aranges
+                0x0000000000000218       0x28 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_aranges
+                0x0000000000000240       0x28 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .debug_aranges
+                0x0000000000000268       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000280       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000000000002e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000300       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .debug_aranges
+                0x0000000000000320       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_aranges
+                0x0000000000000340       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .debug_aranges
+                0x0000000000000360       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x0000000000000380       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000000000003a0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_aranges
+                0x00000000000003c0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_aranges
+                0x00000000000003e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x0000000000000400       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000000420       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000440       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x0000000000000460       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x0000000000000480       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_aranges
+                0x00000000000004a0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_aranges
+                0x00000000000004c0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000000000004e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_aranges
+                0x0000000000000500       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000000520       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_aranges
+                0x0000000000000540       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x0000000000000560       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x0000000000000580       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x00000000000005a0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x00000000000005c0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .debug_aranges
+                0x00000000000005e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_aranges
+                0x0000000000000600       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_aranges
+                0x0000000000000620       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_aranges
+                0x0000000000000640       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000000660       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+
+.debug_ranges   0x0000000000000000      0x6a8
+ .debug_ranges  0x0000000000000000       0xd0 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_ranges  0x00000000000000d0       0x38 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_ranges  0x0000000000000108       0x50 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_ranges  0x0000000000000158       0x40 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_ranges  0x0000000000000198       0x48 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_ranges  0x00000000000001e0       0x70 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_ranges  0x0000000000000250       0x18 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_ranges  0x0000000000000268       0x20 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .debug_ranges  0x0000000000000288       0x58 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_ranges  0x00000000000002e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .debug_ranges  0x0000000000000300       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_ranges  0x0000000000000320       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000000350       0xb8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000408       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_ranges  0x00000000000004d0       0x78 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_ranges  0x0000000000000548       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_ranges  0x0000000000000568       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x00000000000005a0       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_ranges  0x00000000000005e0       0xa0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_ranges  0x0000000000000680       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+
+.debug_macro    0x0000000000000000    0x15105
+ .debug_macro   0x0000000000000000      0x253 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000000253      0xa72 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000000cc5       0x2e CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000000cf3       0x28 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000000d1b      0x34e CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000001069       0x1c CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000001085       0x22 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000010a7      0x107 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000011ae     0x1057 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000002205      0x11f CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000002324    0x1138f CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000136b3       0x6d CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013720       0x22 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013742       0x22 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013764      0x136 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x000000000001389a       0x22 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000138bc       0x52 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x000000000001390e       0x18 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013926       0x94 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000139ba       0x35 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000139ef       0x34 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013a23       0x16 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013a39       0x57 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013a90       0x97 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013b27      0x333 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013e5a       0xfd CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013f57       0x10 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013f67       0x16 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013f7d       0x43 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013fc0       0x34 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000013ff4       0x10 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014004       0x52 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014056      0x182 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000141d8       0x10 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000141e8       0x6a CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014252       0x1c CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x000000000001426e       0x52 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000142c0       0x22 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000142e2       0x10 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000142f2       0x40 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014332       0xd5 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014407       0x1c CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014423       0x3d CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014460       0x16 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014476      0x16f CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000145e5       0x16 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x00000000000145fb       0x35 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_macro   0x0000000000014630       0x8d CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_macro   0x00000000000146bd       0x84 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_macro   0x0000000000014741      0x22b CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x000000000001496c      0x174 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014ae0       0x10 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014af0       0x10 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014b00       0x10 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014b10       0x35 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014b45      0x12c CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014c71       0x10 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014c81      0x241 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_macro   0x0000000000014ec2       0x97 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_macro   0x0000000000014f59      0x10c CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000015065       0x10 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_macro   0x0000000000015075       0x90 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+
+.debug_line     0x0000000000000000     0x798b
+ .debug_line    0x0000000000000000      0x942 CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_line    0x0000000000000942      0x4c2 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_line    0x0000000000000e04      0x2ac CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_line    0x00000000000010b0      0x503 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_line    0x00000000000015b3      0x4a8 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_line    0x0000000000001a5b      0x6a3 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_line    0x00000000000020fe      0x246 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_line    0x0000000000002344       0xa4 CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+ .debug_line    0x00000000000023e8       0xe4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .debug_line    0x00000000000024cc      0x138 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_line    0x0000000000002604       0xbe /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000026c2      0x1ee /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_line    0x00000000000028b0      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_line    0x0000000000002a6f      0x22c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .debug_line    0x0000000000002c9b      0x320 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_line    0x0000000000002fbb      0x38a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .debug_line    0x0000000000003345      0x279 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_line    0x00000000000035be      0x33e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_line    0x00000000000038fc      0x46d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_line    0x0000000000003d69      0x589 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_line    0x00000000000042f2      0x29e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_line    0x0000000000004590      0x3b2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_line    0x0000000000004942      0x15f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_line    0x0000000000004aa1      0x2ca /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x0000000000004d6b      0x2d0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x000000000000503b      0x700 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_line    0x000000000000573b      0x746 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_line    0x0000000000005e81      0x183 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x0000000000006004      0x231 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_line    0x0000000000006235      0x189 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_line    0x00000000000063be      0x183 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_line    0x0000000000006541      0x203 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_line    0x0000000000006744      0x5e4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .debug_line    0x0000000000006d28      0x184 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_line    0x0000000000006eac      0x189 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_line    0x0000000000007035       0xa4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .debug_line    0x00000000000070d9      0x13e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_line    0x0000000000007217      0x1c5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_line    0x00000000000073dc      0x188 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_line    0x0000000000007564      0x2c7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_line    0x000000000000782b      0x160 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+
+.debug_str      0x0000000000000000    0x7690f
+ .debug_str     0x0000000000000000    0x7420e CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+                                      0x74534 (size before relaxing)
+ .debug_str     0x000000000007420e      0x782 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+                                      0x70278 (size before relaxing)
+ .debug_str     0x0000000000074990       0xc7 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+                                      0x6fad2 (size before relaxing)
+ .debug_str     0x0000000000074a57      0xb17 CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+                                      0x73d1a (size before relaxing)
+ .debug_str     0x000000000007556e       0x83 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+                                      0x6fcf7 (size before relaxing)
+ .debug_str     0x00000000000755f1      0x109 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+                                       0x6bcd (size before relaxing)
+ .debug_str     0x00000000000756fa       0xc0 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+                                      0x6fc80 (size before relaxing)
+ .debug_str     0x00000000000757ba       0x4f CMakeFiles/stm32g431_nucleo.dir/device/startup_stm32g431xx.s.obj
+                                         0x81 (size before relaxing)
+ .debug_str     0x0000000000075809      0x16b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                                        0x55e (size before relaxing)
+ .debug_str     0x0000000000075974       0xf0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                                        0x20b (size before relaxing)
+ .debug_str     0x0000000000075a64       0xb6 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy.o)
+ .debug_str     0x0000000000075b1a       0xc8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+                                        0x1df (size before relaxing)
+ .debug_str     0x0000000000075be2       0x48 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                                        0x1c0 (size before relaxing)
+ .debug_str     0x0000000000075c2a       0xb7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+                                        0x54b (size before relaxing)
+ .debug_str     0x0000000000075ce1       0x69 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                                        0x593 (size before relaxing)
+ .debug_str     0x0000000000075d4a       0x62 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+                                        0x5b1 (size before relaxing)
+ .debug_str     0x0000000000075dac       0x39 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+                                        0x582 (size before relaxing)
+ .debug_str     0x0000000000075de5       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+                                        0x57d (size before relaxing)
+ .debug_str     0x0000000000075e25       0x63 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                                        0x5be (size before relaxing)
+ .debug_str     0x0000000000075e88      0x1d4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                                        0x737 (size before relaxing)
+ .debug_str     0x000000000007605c       0x41 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+                                        0x524 (size before relaxing)
+ .debug_str     0x000000000007609d       0x5f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                                        0x6a0 (size before relaxing)
+ .debug_str     0x00000000000760fc       0xa2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+                                        0x533 (size before relaxing)
+ .debug_str     0x000000000007619e       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                                        0x595 (size before relaxing)
+ .debug_str     0x0000000000076252       0x46 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                                        0x5c0 (size before relaxing)
+ .debug_str     0x0000000000076298      0x272 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+                                        0x8b9 (size before relaxing)
+ .debug_str     0x000000000007650a       0x94 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                                        0x7ec (size before relaxing)
+ .debug_str     0x000000000007659e       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                                        0x516 (size before relaxing)
+ .debug_str     0x00000000000765d0       0x92 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                                        0x573 (size before relaxing)
+ .debug_str     0x0000000000076662       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+                                        0x513 (size before relaxing)
+ .debug_str     0x0000000000076695       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+                                        0x503 (size before relaxing)
+ .debug_str     0x00000000000766c8       0x39 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+                                        0x655 (size before relaxing)
+ .debug_str     0x0000000000076701       0x5d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+                                        0x5b1 (size before relaxing)
+ .debug_str     0x000000000007675e       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+                                        0x50d (size before relaxing)
+ .debug_str     0x0000000000076792       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+                                        0x511 (size before relaxing)
+ .debug_str     0x00000000000767c5       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+                                         0xaf (size before relaxing)
+ .debug_str     0x0000000000076801       0x4c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                                        0x52c (size before relaxing)
+ .debug_str     0x000000000007684d       0x23 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+                                        0x57f (size before relaxing)
+ .debug_str     0x0000000000076870       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+                                        0x511 (size before relaxing)
+ .debug_str     0x00000000000768a2       0x5e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                                        0x53e (size before relaxing)
+ .debug_str     0x0000000000076900        0xf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+                                        0x55d (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xe50
+ .debug_frame   0x0000000000000000      0x12c CMakeFiles/stm32g431_nucleo.dir/src/main.c.obj
+ .debug_frame   0x000000000000012c       0x78 CMakeFiles/stm32g431_nucleo.dir/src/init.c.obj
+ .debug_frame   0x00000000000001a4       0xa8 CMakeFiles/stm32g431_nucleo.dir/src/interrupts.c.obj
+ .debug_frame   0x000000000000024c       0x8c CMakeFiles/stm32g431_nucleo.dir/src/syscall.c.obj
+ .debug_frame   0x00000000000002d8       0xa8 CMakeFiles/stm32g431_nucleo.dir/drivers/usart.c.obj
+ .debug_frame   0x0000000000000380      0x124 CMakeFiles/stm32g431_nucleo.dir/drivers/lidar.c.obj
+ .debug_frame   0x00000000000004a4       0x30 CMakeFiles/stm32g431_nucleo.dir/device/system_stm32g4xx.c.obj
+ .debug_frame   0x00000000000004d4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000500       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000540       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x000000000000056c       0x7c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000000000005e8       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_frame   0x0000000000000628       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-setvbuf.o)
+ .debug_frame   0x0000000000000678       0x4c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x00000000000006c4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000000006f0       0x88 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000778      0x124 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x000000000000089c       0x54 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000000008f0       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000958       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000988       0x54 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000000009dc       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000a0c       0xbc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000000ac8       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000000b34       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000b60       0x8c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000bec       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000c18       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000c44       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000c70       0x64 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000cd4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000000d00       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000d2c       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000d5c       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000d94       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000dc0       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000e30       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)

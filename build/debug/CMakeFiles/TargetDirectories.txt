@@ -1,0 +1,3 @@
+/home/curtis-ly/nokturnal/lidar_sf30d/build/debug/CMakeFiles/stm32g431_nucleo.dir
+/home/curtis-ly/nokturnal/lidar_sf30d/build/debug/CMakeFiles/edit_cache.dir
+/home/curtis-ly/nokturnal/lidar_sf30d/build/debug/CMakeFiles/rebuild_cache.dir
